@@ -8,11 +8,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 ## BASIC (100 Questions)
 *Focus: SELECT, WHERE, ORDER BY, LIMIT, LIKE, IN, BETWEEN, DISTINCT, basic aggregates, simple JOINs*
 
-1. Retrieve the first name, last name, and email of all customers.
-2. List all products with a price greater than $100.
-3. Find all orders with a status of 'Delivered'.
-4. Show all customers who live in 'United States' (check the `country` column for the closest match your data uses).
-5. Retrieve all products belonging to the 'Electronics' category.
+1. Retrieve the first name, last name, and email of all customers. ✅
+2. List all products with a price greater than $100. ✅
+3. Find all orders with a status of 'Delivered'. ✅
+4. Show all customers who live in 'United States' (check the `country` column for the closest match your data uses). ✅
+5. Retrieve all products belonging to the 'Electronics' category. ✅
 6. List the top 10 most expensive products.
 7. Find all employees hired after January 1, 2022.
 8. Show all orders placed in the last 30 days relative to the most recent order date in the table.
