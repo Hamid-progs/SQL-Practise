@@ -18,11 +18,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 8. Show all orders placed in the last 30 days relative to the most recent order date in the table. ✅
 9. List all suppliers located in the same city (pick any city present in your data). ✅
 10. Retrieve all coupons with a discount percentage greater than 20%. ✅
-11. Find all customers whose email contains 'gmail'.
-12. List all products whose name starts with the letter 'S'.
-13. Show all reviews with a rating of 5.
-14. Retrieve all orders with a total amount between $100 and $500.
-15. List all warehouses with a capacity greater than 20,000.
+11. Find all customers whose email contains 'gmail'. ✅
+12. List all products whose name starts with the letter 'S'. ✅
+13. Show all reviews with a rating of 5. ✅
+14. Retrieve all orders with a total amount between $100 and $500. ✅
+15. List all warehouses with a capacity greater than 20,000. ✅
 16. Find all employees with a salary above $80,000.
 17. Show the 5 most recent orders.
 18. List all distinct order statuses used in the Orders table.
