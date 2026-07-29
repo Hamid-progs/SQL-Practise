@@ -23,11 +23,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 13. Show all reviews with a rating of 5. ✅
 14. Retrieve all orders with a total amount between $100 and $500. ✅
 15. List all warehouses with a capacity greater than 20,000. ✅
-16. Find all employees with a salary above $80,000.
-17. Show the 5 most recent orders.
-18. List all distinct order statuses used in the Orders table.
-19. Retrieve all distinct payment methods used in the Payments table.
-20. Find all customers who signed up in the year 2023.
+16. Find all employees with a salary above $80,000. ✅
+17. Show the 5 most recent orders. ✅
+18. List all distinct order statuses used in the Orders table. ✅
+19. Retrieve all distinct payment methods used in the Payments table. ✅
+20. Find all customers who signed up in the year 2023. ✅
 21. List all products that are currently inactive (`is_active = 0`).
 22. Show all returns with a status of 'Approved'.
 23. Retrieve all shippers and sort them alphabetically.
