@@ -28,11 +28,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 18. List all distinct order statuses used in the Orders table. ✅
 19. Retrieve all distinct payment methods used in the Payments table. ✅
 20. Find all customers who signed up in the year 2023. ✅
-21. List all products that are currently inactive (`is_active = 0`).
-22. Show all returns with a status of 'Approved'.
-23. Retrieve all shippers and sort them alphabetically.
-24. List the 20 lowest-priced products.
-25. Find all suppliers with a rating above 4.5.
+21. List all products that are currently inactive (`is_active = 0`). ✅
+22. Show all returns with a status of 'Approved'. ✅
+23. Retrieve all shippers and sort them alphabetically. ✅
+24. List the 20 lowest-priced products. ✅
+25. Find all suppliers with a rating above 4.5. ✅
 26. Show all departments along with their budget, sorted from highest to lowest.
 27. List all products with no supplier (there shouldn't be any — verify this and explain why).
 28. Retrieve all orders that used a coupon (`coupon_id IS NOT NULL`).
