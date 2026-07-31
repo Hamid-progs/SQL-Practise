@@ -33,11 +33,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 23. Retrieve all shippers and sort them alphabetically. ✅
 24. List the 20 lowest-priced products. ✅
 25. Find all suppliers with a rating above 4.5. ✅
-26. Show all departments along with their budget, sorted from highest to lowest.
-27. List all products with no supplier (there shouldn't be any — verify this and explain why).
-28. Retrieve all orders that used a coupon (`coupon_id IS NOT NULL`).
-29. Find all customers with a NULL phone number, if any.
-30. List all categories and their descriptions.
+26. Show all departments along with their budget, sorted from highest to lowest. ✅
+27. List all products with no supplier (there shouldn't be any — verify this and explain why). ✅
+28. Retrieve all orders that used a coupon (`coupon_id IS NOT NULL`). ✅
+29. Find all customers with a NULL phone number, if any. ✅
+30. List all categories and their descriptions. ✅
 31. Show the total number of customers in the database.
 32. Count how many products belong to each category (basic GROUP BY not required — use COUNT with WHERE for a single category).
 33. Find the average price of all products.
