@@ -38,11 +38,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 28. Retrieve all orders that used a coupon (`coupon_id IS NOT NULL`). ✅
 29. Find all customers with a NULL phone number, if any. ✅
 30. List all categories and their descriptions. ✅
-31. Show the total number of customers in the database.
-32. Count how many products belong to each category (basic GROUP BY not required — use COUNT with WHERE for a single category).
-33. Find the average price of all products.
-34. Retrieve the maximum and minimum salary among employees.
-35. Count the number of orders with status 'Cancelled'.
+31. Show the total number of customers in the database. ✅
+32. Count how many products belong to each category (basic GROUP BY not required — use COUNT with WHERE for a single category). ✅
+33. Find the average price of all products. ✅
+34. Retrieve the maximum and minimum salary among employees. ✅
+35. Count the number of orders with status 'Cancelled'. ✅
 36. List all products priced exactly $49.99, $99.99, or $199.99 (use IN).
 37. Find all orders placed between '2024-01-01' and '2024-06-30'.
 38. Retrieve all employees who do not have a manager (`manager_id IS NULL`).
