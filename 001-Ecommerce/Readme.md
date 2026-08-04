@@ -43,11 +43,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 33. Find the average price of all products. ✅
 34. Retrieve the maximum and minimum salary among employees. ✅
 35. Count the number of orders with status 'Cancelled'. ✅
-36. List all products priced exactly $49.99, $99.99, or $199.99 (use IN).
-37. Find all orders placed between '2024-01-01' and '2024-06-30'.
-38. Retrieve all employees who do not have a manager (`manager_id IS NULL`).
-39. List all customers whose last name ends with 'son'.
-40. Show all products sorted by price in descending order, limited to 15 rows.
+36. List all products priced exactly $49.99, $99.99, or $199.99 (use IN). ✅
+37. Find all orders placed between '2024-01-01' and '2024-06-30'. ✅
+38. Retrieve all employees who do not have a manager (`manager_id IS NULL`). ✅
+39. List all customers whose last name ends with 'son'. ✅
+40. Show all products sorted by price in descending order, limited to 15 rows. ✅
 41. Find all reviews left in the last 90 days (relative to the most recent review date).
 42. Retrieve all orders with no assigned shipper.
 43. List all coupons that are currently expired (`valid_to < CURRENT_DATE`).
