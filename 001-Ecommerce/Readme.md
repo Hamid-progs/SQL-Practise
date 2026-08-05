@@ -48,11 +48,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 38. Retrieve all employees who do not have a manager (`manager_id IS NULL`). ✅
 39. List all customers whose last name ends with 'son'. ✅
 40. Show all products sorted by price in descending order, limited to 15 rows. ✅
-41. Find all reviews left in the last 90 days (relative to the most recent review date).
-42. Retrieve all orders with no assigned shipper.
-43. List all coupons that are currently expired (`valid_to < CURRENT_DATE`).
-44. Show the total number of products supplied by each of two specific suppliers (pick any two supplier IDs).
-45. Find all warehouses located in a specific country (pick one present in your data).
+41. Find all reviews left in the last 90 days (relative to the most recent review date). ✅
+42. Retrieve all orders with no assigned shipper. ✅
+43. List all coupons that are currently expired (`valid_to < CURRENT_DATE`). ✅
+44. Show the total number of products supplied by each of two specific suppliers (pick any two supplier IDs). ✅
+45. Find all warehouses located in a specific country (pick one present in your data). ✅
 46. Retrieve the 10 oldest customers by signup date.
 47. List all order items with a quantity greater than 3.
 48. Show all products with a price between $20 and $50, sorted by price ascending.
