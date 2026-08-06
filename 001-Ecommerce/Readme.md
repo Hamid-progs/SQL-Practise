@@ -53,11 +53,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 43. List all coupons that are currently expired (`valid_to < CURRENT_DATE`). ✅
 44. Show the total number of products supplied by each of two specific suppliers (pick any two supplier IDs). ✅
 45. Find all warehouses located in a specific country (pick one present in your data). ✅
-46. Retrieve the 10 oldest customers by signup date.
-47. List all order items with a quantity greater than 3.
-48. Show all products with a price between $20 and $50, sorted by price ascending.
-49. Find all employees whose job title contains the word 'Manager'.
-50. Retrieve a distinct list of all cities where customers live.
+46. Retrieve the 10 oldest customers by signup date. ✅
+47. List all order items with a quantity greater than 3. ✅
+48. Show all products with a price between $20 and $50, sorted by price ascending. ✅
+49. Find all employees whose job title contains the word 'Manager'. ✅
+50. Retrieve a distinct list of all cities where customers live. ✅
 51. Count the number of distinct countries suppliers operate from.
 52. List all orders placed by a specific customer (pick any customer_id).
 53. Find the total number of order items associated with a specific order.
