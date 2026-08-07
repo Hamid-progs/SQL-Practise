@@ -58,11 +58,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 48. Show all products with a price between $20 and $50, sorted by price ascending. ✅
 49. Find all employees whose job title contains the word 'Manager'. ✅
 50. Retrieve a distinct list of all cities where customers live. ✅
-51. Count the number of distinct countries suppliers operate from.
-52. List all orders placed by a specific customer (pick any customer_id).
-53. Find the total number of order items associated with a specific order.
-54. Show all payments made using 'PayPal'.
-55. Retrieve all products with a description that mentions 'quality'.
+51. Count the number of distinct countries suppliers operate from. ✅
+52. List all orders placed by a specific customer (pick any customer_id). ✅
+53. Find the total number of order items associated with a specific order. ✅
+54. Show all payments made using 'PayPal'. ✅
+55. Retrieve all products with a description that mentions 'quality'. ✅
 56. List the 5 highest-rated suppliers.
 57. Find all returns that occurred within 7 days of the order date (approximate using date arithmetic).
 58. Show all customers who are currently inactive (`is_active = 0`).
