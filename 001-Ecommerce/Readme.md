@@ -63,11 +63,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 53. Find the total number of order items associated with a specific order. ✅
 54. Show all payments made using 'PayPal'. ✅
 55. Retrieve all products with a description that mentions 'quality'. ✅
-56. List the 5 highest-rated suppliers.
-57. Find all returns that occurred within 7 days of the order date (approximate using date arithmetic).
-58. Show all customers who are currently inactive (`is_active = 0`).
-59. Retrieve the names of all employees working in the 'Sales' department (join required — treat as basic single-join practice).
-60. List all products that belong to either the 'Books' or 'Toys' category (use IN with category names via a subquery or two separate lookups).
+56. List the 5 highest-rated suppliers. ✅
+57. Find all returns that occurred within 7 days of the order date (approximate using date arithmetic). ✅
+58. Show all customers who are currently inactive (`is_active = 0`). ✅
+59. Retrieve the names of all employees working in the 'Sales' department (join required — treat as basic single-join practice). ✅
+60. List all products that belong to either the 'Books' or 'Toys' category (use IN with category names via a subquery or two separate lookups). ✅
 61. Find the number of employees in each department (simple GROUP BY).
 62. Show the total revenue represented by all payments with status 'Completed'.
 63. List order items where the subtotal exceeds $500.
