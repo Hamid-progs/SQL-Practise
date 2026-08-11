@@ -68,16 +68,16 @@ No answers included — these are meant for self-practice / interview prep, in t
 58. Show all customers who are currently inactive (`is_active = 0`). ✅
 59. Retrieve the names of all employees working in the 'Sales' department (join required — treat as basic single-join practice). ✅
 60. List all products that belong to either the 'Books' or 'Toys' category (use IN with category names via a subquery or two separate lookups). ✅
-61. Find the number of employees in each department (simple GROUP BY).
-62. Show the total revenue represented by all payments with status 'Completed'.
-63. List order items where the subtotal exceeds $500.
-64. Retrieve all products costing less than $10 to produce (`cost` column).
-65. Find the customer with the earliest signup date.
-66. Show the 3 most recently hired employees.
-67. List all reviews containing the word 'damaged'.
-68. Retrieve all orders with a total amount of exactly $0 (investigate if any exist and why).
-69. Find the number of coupons that have never been used (`times_used = 0`).
-70. Show all products from suppliers based in a specific country (pick one).
+61. Find the number of employees in each department (simple GROUP BY). ✅
+62. Show the total revenue represented by all payments with status 'Completed'. ✅
+63. List order items where the subtotal exceeds $500. ✅
+64. Retrieve all products costing less than $10 to produce (`cost` column). ✅
+65. Find the customer with the earliest signup date. ✅
+66. Show the 3 most recently hired employees. ✅
+67. List all reviews containing the word 'damaged'. ✅
+68. Retrieve all orders with a total amount of exactly $0 (investigate if any exist and why). ✅
+69. Find the number of coupons that have never been used (`times_used = 0`). ✅
+70. Show all products from suppliers based in a specific country (pick one). ✅
 71. List the first 10 rows of the Order_Items table ordered by order_item_id.
 72. Retrieve all employees earning between $50,000 and $90,000.
 73. Find all customers without any reviews using a simple NOT IN subquery (basic version).
