@@ -78,16 +78,16 @@ No answers included — these are meant for self-practice / interview prep, in t
 68. Retrieve all orders with a total amount of exactly $0 (investigate if any exist and why). ✅
 69. Find the number of coupons that have never been used (`times_used = 0`). ✅
 70. Show all products from suppliers based in a specific country (pick one). ✅
-71. List the first 10 rows of the Order_Items table ordered by order_item_id.
-72. Retrieve all employees earning between $50,000 and $90,000.
-73. Find all customers without any reviews using a simple NOT IN subquery (basic version).
-74. Show the total capacity across all warehouses.
-75. List all products with 'Wireless' in the name.
-76. Retrieve the number of orders that have not yet been delivered (status not equal to 'Delivered').
-77. Find the youngest hire date among employees in a specific department.
-78. Show all coupons valid during a specific month (pick any month/year).
-79. List all customers sorted by last name, then first name.
-80. Retrieve the top 5 warehouses by capacity.
+71. List the first 10 rows of the Order_Items table ordered by order_item_id. ✅
+72. Retrieve all employees earning between $50,000 and $90,000. ✅
+73. Find all customers without any reviews using a simple NOT IN subquery (basic version). ✅
+74. Show the total capacity across all warehouses. ✅
+75. List all products with 'Wireless' in the name. ✅
+76. Retrieve the number of orders that have not yet been delivered (status not equal to 'Delivered'). ✅
+77. Find the youngest hire date among employees in a specific department. ✅
+78. Show all coupons valid during a specific month (pick any month/year). ✅
+79. List all customers sorted by last name, then first name. ✅
+80. Retrieve the top 5 warehouses by capacity. ✅
 81. Find the number of products per supplier for a single named supplier.
 82. Show all orders that have more than one associated payment record.
 83. List the distinct set of job titles used across all employees.
