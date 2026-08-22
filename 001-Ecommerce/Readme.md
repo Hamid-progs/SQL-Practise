@@ -88,11 +88,11 @@ No answers included — these are meant for self-practice / interview prep, in t
 78. Show all coupons valid during a specific month (pick any month/year). ✅
 79. List all customers sorted by last name, then first name. ✅
 80. Retrieve the top 5 warehouses by capacity. ✅
-81. Find the number of products per supplier for a single named supplier.
-82. Show all orders that have more than one associated payment record.
-83. List the distinct set of job titles used across all employees.
-84. Retrieve the average rating given across all reviews.
-85. Find all payments with an amount greater than $1,000.
+81. Find the number of products per supplier for a single named supplier. ✅
+82. Show all orders that have more than one associated payment record. ✅
+83. List the distinct set of job titles used across all employees. ✅
+84. Retrieve the average rating given across all reviews. ✅
+85. Find all payments with an amount greater than $1,000. ✅
 86. Show all products that have never been restocked (`last_restock_date IS NULL`), if any exist.
 87. List the number of returns per reason category (simple GROUP BY).
 88. Retrieve all orders shipped by a specific shipper (pick any shipper_id).
